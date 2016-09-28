@@ -193,8 +193,3 @@ MIT
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 
-   |head1|head2|head3|head4|
-   |---|:---|:---:|---:|
-   |row1text1|row1text3|row1text3|row1text4|
-   |row2text1|row2text3|row2text3|row2text4|
-
